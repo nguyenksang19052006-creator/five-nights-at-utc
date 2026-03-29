@@ -1,5 +1,6 @@
 Anh/ButtonGreen.png
 Anh/ButtonRed.png
+Anh/Layout.png
 Anh/LogoGame.png
 Anh/MonitorButton.png
 Anh/Office.png
@@ -16,6 +17,9 @@ Anh/camera frames/cam_7.png
 Anh/camera frames/cam_8.png
 Anh/camera frames/cam_9.png
 Anh/camera locations/Location_1.png
+Anh/camera locations/Location_2.png
+Anh/camera locations/Location_3.png
+Anh/camera locations/Location_4.png
 Anh/door frames/door_1.png
 Anh/door frames/door_2.png
 Anh/door frames/door_3.png
@@ -24,6 +28,22 @@ Anh/door frames/door_5.png
 Anh/door frames/door_6.png
 Anh/door frames/door_7.png
 Anh/door frames/door_8.png
+Anh/fan frames/Fan_1.png
+Anh/fan frames/Fan_2.png
+Anh/fan frames/Fan_3.png
+Anh/fan frames/Fan_4.png
+Anh/fan frames/Fan_5.png
+Anh/fan frames/Fan_6.png
+Anh/fan frames/Fan_7.png
+Anh/fan frames/Fan_8.png
+Buttons/Cam01_Gray.png
+Buttons/Cam01_Green.png
+Buttons/Cam02_Gray.png
+Buttons/Cam02_Green.png
+Buttons/Cam03_Gray.png
+Buttons/Cam03_Green.png
+Buttons/Cam04_Gray.png
+Buttons/Cam04_Green.png
 Nhac/Ambient.mp3
 Nhac/OpenCloseCamera.mp3
 Nhac/OpenCloseDoor.mp3
